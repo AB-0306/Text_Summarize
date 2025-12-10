@@ -97,6 +97,3 @@ python test_client.py
 
 The script will output the number of refinement iterations performed and the final summarized text.
 
----
-
-If you would like, I can also generate a combined README covering both agents, add diagrams, or create documentation-style API references.
